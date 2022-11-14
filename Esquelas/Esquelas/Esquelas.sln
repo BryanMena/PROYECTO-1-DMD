@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Esquelas", "Esquelas.rptproj", "{E464D737-56F6-45D3-AD43-8D3E6340D8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.Debug|Default.ActiveCfg = Debug
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.Debug|Default.Build.0 = Debug
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.Debug|Default.Deploy.0 = Debug
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.DebugLocal|Default.Build.0 = DebugLocal
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.Release|Default.ActiveCfg = Release
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.Release|Default.Build.0 = Release
+		{E464D737-56F6-45D3-AD43-8D3E6340D8CE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9902D37-DB4B-4DC6-9A5A-60EEAC54230B}
+	EndGlobalSection
+EndGlobal
